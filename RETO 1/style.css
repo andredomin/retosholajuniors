@@ -1,0 +1,104 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: #F1F1F1}
+
+nav{
+    background-color: #ffffff;
+}
+#habilidades{
+    padding-bottom: 20%;
+}
+#experiencia{
+    background-color: #ffffff;
+    padding-top: 5%;
+}
+
+#presentacion img{
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    border-radius: 20px;
+    
+}
+
+#habilidades_lista{
+    display: flex;
+    flex-direction: row;
+    margin-top: 15%;
+    margin-left: -10%;
+}
+
+#habilidades_reactjs{
+    margin-left: 20%;
+}
+
+#habilidades_php{
+    margin-left: 20%;
+}
+
+#habilidades_seo{
+    margin-left: 20%;
+}
+
+#experiencia_primerafila{
+    display: flex;
+    flex-direction: row;
+    margin-top: 5%;
+}
+
+#experiencia_trabajo1{
+    margin-left: 4%;
+}
+
+
+
+#experiencia_trabajo2{
+    margin-left: 2%;
+}
+
+
+#experiencia_trabajo3{
+    margin-left: 2%;
+    margin-top: -0.5%;
+}
+
+
+
+#experiencia_segundafila{
+    display: flex;
+    flex-direction: row;
+    margin-top: 10%;
+}
+
+#experiencia_trabajo4{
+    margin-left: 4%;
+    margin-top: 0%;
+}
+
+
+
+#experiencia_trabajo5{
+    margin-left: 2%;
+}
+
+
+
+#experiencia_trabajo6{
+    margin-left: 2%;
+}
+
+
+#masinfo_social{
+    margin-top: 15%;
+    margin-left: 40%;
+}
+
+#masinfo_social img{
+    margin-left: 6%;
+}
+
